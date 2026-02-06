@@ -1,0 +1,23 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+
+# Plugins (DO NOT VERSION)
+wp-content/plugins/
+
+# Uploads (media)
+wp-content/uploads/
+
+# Cache & temporary files
+wp-content/cache/
+wp-content/upgrade/
+
+# Sensitive config
+wp-config.php
+
+# Logs
+*.log
+
+# OS & editor
+.DS_Store
+.vscode/
